@@ -66,24 +66,6 @@
       }
     ],
     "url": "https://raw.githubusercontent.com/thegnsme/skystream-plugins/repo/dist/com.cookie.teluguscreen.sky"
- },
+ }
 
-   {
-        "iconUrl": "https://www.shutterstock.com/image-vector/iptv-vector-line-icon-ip-260nw-1841427610.jpg",
-        "apiVersion": 1,
-        "repositoryUrl": "https://gitlab.com/tearrs/cloudstream-vietnamese",
-        "fileSize": 30703,
-        "status": 1,
-        "authors": [
-            "Bình Pro"
-        ],
-        "tvTypes": [
-            "Live"
-        ],
-        "version": 9,
-        "internalName": "IPTVProvider",
-        "description": "C\u1ea7n nh\u1eadp link IPTV \u0111\u1ec3 xem",
-        "url": "https://raw.githubusercontent.com/TNB88/FSHARE/refs/heads/main/IPTVProvider.cs3",
-        "name": "IPTVProvider"
-    }
 ]
