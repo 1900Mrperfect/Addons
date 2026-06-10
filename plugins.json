@@ -17,5 +17,27 @@
     "TvSeries"
   ],
   "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/movieblast.png"
-}
+},
+
+  {
+    "packageName": "com.cookie.moviezwap",
+    "name": "Moviezwap",
+    "version": 3,
+    "baseUrl": "https://www.moviezwap.love/",
+    "description": "Telugu & Tamil movies provider - Latest releases in multiple qualities",
+    "authors": [
+      "Cookie🍪"
+    ],
+    "languages": [
+      "te",
+      "ta",
+      "hi"
+    ],
+    "categories": [
+      "Movie",
+      "TvSeries"
+    ],
+    "url": "https://raw.githubusercontent.com/thegnsme/skystream-plugins/repo/dist/com.cookie.moviezwap.sky"
+  },
+  
 ]
