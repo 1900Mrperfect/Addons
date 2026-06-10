@@ -1,26 +1,5 @@
 [
   {
-    "packageName": "com.cookie.moviezwap",
-    "name": "Moviezwap",
-    "version": 3,
-    "baseUrl": "https://www.moviezwap.love/",
-    "description": "Telugu & Tamil movies provider - Latest releases in multiple qualities",
-    "authors": [
-      "Cookie🍪"
-    ],
-    "languages": [
-      "te",
-      "ta",
-      "hi"
-    ],
-    "categories": [
-      "Movie",
-      "TvSeries"
-    ],
-    "url": "https://raw.githubusercontent.com/thegnsme/skystream-plugins/repo/dist/com.cookie.moviezwap.sky"
-  },
- 
-   {
     "packageName": "com.cookie.tellybiz",
     "name": "Tellybiz",
     "version": 1,
@@ -41,26 +20,7 @@
     "isNsfw": false,
     "url": "https://raw.githubusercontent.com/thegnsme/skystream-plugins/repo/dist/com.cookie.tellybiz.sky"
   },
-  {
-    "packageName": "com.cookie.vegamovies",
-    "name": "VegaMovies",
-    "version": 1,
-    "baseUrl": "https://vegamovies.market",
-    "description": "VegaMovies - Movies, TV Shows and Web Series streaming provider with multi-server support (V-Cloud, FSL, Mega, Buzz, Pixeldrain, 10Gbps)",
-    "authors": [
-      "Cookie🍪"
-    ],
-    "languages": [
-      "hi",
-      "en"
-    ],
-    "categories": [
-      "Movies",
-      "TV",
-      "Anime"
-    ],
-    "url": "https://raw.githubusercontent.com/thegnsme/skystream-plugins/repo/dist/com.cookie.vegamovies.sky"
-  },
+ 
   {
     "packageName": "com.cookie.moviblast",
     "name": "MovieBlast",
@@ -81,6 +41,7 @@
     "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/movieblast.png",
     "url": "https://raw.githubusercontent.com/thegnsme/skystream-plugins/repo/dist/com.cookie.moviblast.sky"
   },
+
   {
     "packageName": "com.cookie.teluguscreen",
     "name": "TeluguScreen",
