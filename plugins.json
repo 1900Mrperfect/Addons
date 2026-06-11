@@ -88,15 +88,15 @@
   
   {
     "packageName": "com.cookie.teluguscreen",
-    "name": "World Screen",
+    "name": "Telugu World Screen",
     "version": 1,
-    "baseUrl": "https://sflix.film",
+    "baseUrl": "https://teluguscreen.com",
     "description": "World creen movies and TV shows",
     "authors": [
       "Cookie🍪"
     ],
     "languages": [
-      "te","hi",
+      "te",
       "en"
     ],
     "categories": [
@@ -105,8 +105,8 @@
     ],
     "domains": [
      {
-        "name": "sflix.film",
-        "url": "https://sflix.film"
+        "name": "teluguscreen.com",
+        "url": "https://teluguscreen.com"
       }
      
     ],
