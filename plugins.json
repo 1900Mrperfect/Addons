@@ -1,25 +1,24 @@
 [
 {
-    "packageName": "com.cookie.moviezwap",
-    "name": "Moviezwap",
-    "version": 3,
-    "baseUrl": "https://www.moviezwap.love/",
-    "description": "Telugu & Tamil movies provider - Latest releases in multiple qualities",
+    "packageName": "dev.nivincnc.cncverse.castletv",
+    "name": "Castle TV",
+    "version": 1,
+    "baseUrl": "https://api.hlowb.com",
+    "description": "Castle TV Movies and Series Provider",
     "authors": [
-      "Cookie🍪"
+      "NivinCNC"
     ],
     "languages": [
-      "te",
-      "ta",
-      "hi"
+      "en",
+      "hi",
+      "ta"
     ],
     "categories": [
       "Movie",
       "TvSeries"
     ],
-    "url": "https://raw.githubusercontent.com/thegnsme/skystream-plugins/repo/dist/com.cookie.moviezwap.sky"
+    "url": "https://raw.githubusercontent.com/NivinCNC/CNCVerse-Sky-Stream-Extension/main/dist/dev.nivincnc.cncverse.castletv.sky"
   },
- 
  {
     "packageName": "com.igris.repo.movierulz",
     "name": "Movierulz",
