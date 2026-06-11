@@ -64,6 +64,10 @@
         "name": "teluguscreen.com",
         "url": "https://teluguscreen.com"
       }
+      {
+        "name": "stream2watch.tv",
+        "url": "https://stream2watch.tv"
+      }
     ],
     "url": "https://raw.githubusercontent.com/thegnsme/skystream-plugins/repo/dist/com.cookie.teluguscreen.sky"
  }
