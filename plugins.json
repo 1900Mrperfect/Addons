@@ -1,5 +1,48 @@
 [
   {
+    "packageName": "com.igris.repo.movierulz",
+    "name": "Movierulz",
+    "version": 5,
+    "baseUrl": "https://example.com",
+    "description": "Fresh movie drops with fast links.",
+    "authors": [
+      "IGRIS"
+    ],
+    "languages": [
+      "hi",
+      "en",
+      "ta",
+      "te",
+      "ml",
+      "kn"
+    ],
+    "categories": [
+      "Movies"
+    ],
+    "url": "https://raw.githubusercontent.com/likhithkrishna1103-tech/Hindmovie/main/dist/com.igris.repo.movierulz.sky"
+  },
+  {
+    "packageName": "dev.nivincnc.cncverse.castletv",
+    "name": "Castle TV",
+    "version": 1,
+    "baseUrl": "https://api.hlowb.com",
+    "description": "Castle TV Movies and Series Provider",
+    "authors": [
+      "NivinCNC"
+    ],
+    "languages": [
+      "en",
+      "hi",
+      "ta"
+    ],
+    "categories": [
+      "Movie",
+      "TvSeries"
+    ],
+    "url": "https://raw.githubusercontent.com/NivinCNC/CNCVerse-Sky-Stream-Extension/main/dist/dev.nivincnc.cncverse.castletv.sky"
+  },
+  
+  {
     "packageName": "com.cookie.tellybiz",
     "name": "Tellybiz",
     "version": 1,
