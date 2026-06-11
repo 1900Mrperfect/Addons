@@ -3,7 +3,7 @@
     "packageName": "com.igris.repo.movierulz",
     "name": "Movierulz",
     "version": 5,
-    "baseUrl": "https://example.com",
+    "baseUrl": "https://sflix.film",
     "description": "Fresh movie drops with fast links.",
     "authors": [
       "IGRIS"
