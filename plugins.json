@@ -104,11 +104,7 @@
       "TV Shows"
     ],
     "domains": [
-      {
-        "name": "teluguscreen.com",
-        "url": "https://teluguscreen.com"
-      },
-      {
+     {
         "name": "sflix.film",
         "url": "https://sflix.film"
       }
