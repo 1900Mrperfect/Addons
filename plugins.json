@@ -107,7 +107,12 @@
       {
         "name": "teluguscreen.com",
         "url": "https://teluguscreen.com"
+      },
+      {
+        "name": "sflix.film",
+        "url": "https://sflix.film"
       }
+     
     ],
     "url": "https://raw.githubusercontent.com/thegnsme/skystream-plugins/repo/dist/com.cookie.teluguscreen.sky"
  }
